@@ -1,0 +1,8 @@
+content   seleniumideinterface                content/
+skin      seleniumideinterface  classic/1.0   skin/
+locale    seleniumideinterface  en-US         locale/en-US/
+
+overlay chrome://selenium-ide/content/selenium-ide-common.xul  chrome://seleniumideinterface/content/browserOverlay.xul
+overlay chrome://selenium-ide/content/selenium-ide-overlay.xul chrome://seleniumideinterface/content/formats/format-loader.xul
+override chrome://selenium-ide/content/formats/webdriver.js chrome://seleniumideinterface/content/formats/webdriver.js
+override chrome://selenium-ide/content/editor.js chrome://seleniumideinterface/content/editor.js

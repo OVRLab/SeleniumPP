@@ -1,0 +1,4 @@
+<!ENTITY seleniumideinterface.hello.label            "Selenium IDE Proxy">
+<!ENTITY seleniumideinterface.helloMenu.accesskey    "l">
+<!ENTITY seleniumideinterface.helloItem.accesskey    "H">
+<!ENTITY performpreflight "Perform preflight checks">
