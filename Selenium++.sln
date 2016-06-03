@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium++", "Selenium++\Selenium++.csproj", "{647D0F26-2457-4BAB-98C9-4A0702F64044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium-Interface", "Selenium-Interface\Selenium-Interface.csproj", "{4B82E3B0-0A30-4A30-B9F5-CDAFFB275983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sikuli4Net", "Sikuli4Net\Sikuli4Net.csproj", "{77ABFEEC-B4CD-43A5-9D7F-D9C7A281CFC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "computer_assisted_instruction", "computer-assisted-instruction\computer_assisted_instruction.csproj", "{A5DECB5A-F4A2-4C74-98A6-B95CBC125E8B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://imljh.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = ..\\..\\TFS\\Alemni-computer-assisted-instruction\\computer-assisted-instruction\\computer_assisted_instruction.csproj
+		SccProjectName0 = $/Alemni-computer-assisted-instruction/computer-assisted-instruction
+		SccAuxPath0 = https://imljh.visualstudio.com/defaultcollection
+		SccLocalPath0 = ..\\..\\TFS\\Alemni-computer-assisted-instruction\\computer-assisted-instruction
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647D0F26-2457-4BAB-98C9-4A0702F64044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647D0F26-2457-4BAB-98C9-4A0702F64044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647D0F26-2457-4BAB-98C9-4A0702F64044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647D0F26-2457-4BAB-98C9-4A0702F64044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B82E3B0-0A30-4A30-B9F5-CDAFFB275983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B82E3B0-0A30-4A30-B9F5-CDAFFB275983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B82E3B0-0A30-4A30-B9F5-CDAFFB275983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B82E3B0-0A30-4A30-B9F5-CDAFFB275983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77ABFEEC-B4CD-43A5-9D7F-D9C7A281CFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ABFEEC-B4CD-43A5-9D7F-D9C7A281CFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ABFEEC-B4CD-43A5-9D7F-D9C7A281CFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ABFEEC-B4CD-43A5-9D7F-D9C7A281CFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DECB5A-F4A2-4C74-98A6-B95CBC125E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DECB5A-F4A2-4C74-98A6-B95CBC125E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DECB5A-F4A2-4C74-98A6-B95CBC125E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DECB5A-F4A2-4C74-98A6-B95CBC125E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
